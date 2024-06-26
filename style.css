@@ -354,7 +354,7 @@ footer{
     -ms-animation-fill-mode: forwards;     /* IE 10+ */
     animation-fill-mode: forwards;         /* When the spec is finished */
     opacity: 0;
-    
+    height: 32px;
 }
 
 footer::before{
@@ -380,6 +380,9 @@ footer::after{
     justify-content: center;
     gap: 8px;
     flex-wrap: wrap;
+
+    height: 32px;
+    align-items: center;
 }
 
 span{
