@@ -182,10 +182,10 @@ body{
 .second-hand{
     position: absolute;
     width: 4px;
-    height: 82px;
+    height: 92px;
     background-color: var(--second);
     border-radius: 46px;
-    transform: translateY(-41px);
+    transform: translateY(-31px);
     rotate: 0deg;
 
     box-shadow: 5px 5px 10px var(--shadow2),
